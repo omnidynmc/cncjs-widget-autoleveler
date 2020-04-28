@@ -1,2 +1,2 @@
 # cncjs-widget-autoleveler
-CNCjs Autolevler Widget
+CNCjs Autoleveler Widget
